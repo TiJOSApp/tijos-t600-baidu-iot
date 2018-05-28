@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TiKit Demo</string>
+    <string name="title_activity_login">Connect</string>
+
+    <!-- Strings related to login -->
+    <string name="broker">tcp://tijos.mqtt.iot.gz.baidubce.com:1883</string>
+    <string name="prompt_broker">Broker</string>
+    <string name="prompt_user">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Connect</string>
+    <string name="action_sign_in_short">Connect</string>
+    <string name="error_invalid_user">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
